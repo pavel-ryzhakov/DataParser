@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositories\\DataParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A814B43-B79A-488F-91EA-30479BA1757A}|DataParser\\DataParser.csproj|c:\\repositories\\dataparser\\dataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A814B43-B79A-488F-91EA-30479BA1757A}|DataParser\\DataParser.csproj|solutionrelative:dataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A814B43-B79A-488F-91EA-30479BA1757A}|DataParser\\DataParser.csproj|c:\\repositories\\dataparser\\dataparser\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7A814B43-B79A-488F-91EA-30479BA1757A}|DataParser\\DataParser.csproj|solutionrelative:dataparser\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9096699E-4B7A-4B9D-9DD5-F88958B9E476}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9096699E-4B7A-4B9D-9DD5-F88958B9E476}|C:\\Repositories\\DataParser\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9096699E-4B7A-4B9D-9DD5-F88958B9E476}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9096699E-4B7A-4B9D-9DD5-F88958B9E476}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A814B43-B79A-488F-91EA-30479BA1757A}|DataParser\\DataParser.csproj|c:\\repositories\\dataparser\\dataparser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A814B43-B79A-488F-91EA-30479BA1757A}|DataParser\\DataParser.csproj|solutionrelative:dataparser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A814B43-B79A-488F-91EA-30479BA1757A}|DataParser\\DataParser.csproj|c:\\repositories\\dataparser\\dataparser\\csvconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A814B43-B79A-488F-91EA-30479BA1757A}|DataParser\\DataParser.csproj|solutionrelative:dataparser\\csvconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CsvConfiguration.cs",
+              "DocumentMoniker": "C:\\Repositories\\DataParser\\DataParser\\CsvConfiguration.cs",
+              "RelativeDocumentMoniker": "DataParser\\CsvConfiguration.cs",
+              "ToolTip": "C:\\Repositories\\DataParser\\DataParser\\CsvConfiguration.cs",
+              "RelativeToolTip": "DataParser\\CsvConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:25:31.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositories\\DataParser\\DataParser\\Program.cs",
+              "RelativeDocumentMoniker": "DataParser\\Program.cs",
+              "ToolTip": "C:\\Repositories\\DataParser\\DataParser\\Program.cs",
+              "RelativeToolTip": "DataParser\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:45:34.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repositories\\DataParser\\DataParser\\appsettings.json",
+              "RelativeDocumentMoniker": "DataParser\\appsettings.json",
+              "ToolTip": "C:\\Repositories\\DataParser\\DataParser\\appsettings.json",
+              "RelativeToolTip": "DataParser\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T06:16:10.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Repositories\\DataParser\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Repositories\\DataParser\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-23T06:13:00.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Repositories\\DataParser\\DataParser\\Dockerfile",
+              "RelativeDocumentMoniker": "DataParser\\Dockerfile",
+              "ToolTip": "C:\\Repositories\\DataParser\\DataParser\\Dockerfile",
+              "RelativeToolTip": "DataParser\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-23T06:12:35.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+version: "3.9"
+services:
+  app:
+    image: dataparser:latest
+    build:
+      context: DataParser
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=db;Database=passports_data_v1;Username=postgres;Password=1
+      - CsvFilePath=/data/Data.csv
+    depends_on:
+      - db
+    volumes:
+      - ./data:/data
+
+
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1
+      POSTGRES_DB: passports_data_v1
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+
+volumes:
+  db_data:
+  
+  
